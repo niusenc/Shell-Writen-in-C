@@ -1,5 +1,6 @@
 #define LSH_RL_BUFSIZE 1024
 #define LSH_TOK_BUFSIZE 64
+
 #define LSH_TOK_DELM "\t\r\n\a"
 int main(int argc, char** argc) {
 	lsh_loop();
